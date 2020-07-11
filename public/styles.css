@@ -1,6 +1,7 @@
 body {
   font-size: 120%;
   font-family: Arial;
+  background-color: rgb(213, 221, 228);
 }
 
 button, input {
@@ -48,4 +49,18 @@ tr:nth-child(even) {
   overflow: auto;
   width: 90%;
   margin: 0 auto;
+}
+
+
+.title {
+text-align: center;
+font-family: 'Pacifico', cursive;
+}
+
+#img {
+  size: 2rem;
+}
+
+.row {
+  background-color: rgb(158, 158, 223);
 }
